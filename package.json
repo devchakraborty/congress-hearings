@@ -1,0 +1,19 @@
+{
+  "name": "congress-hearings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^14.0.0",
+    "lodash": "^4.17.4",
+    "promise-throttle": "^0.3.1",
+    "request": "^2.83.0",
+    "textversionjs": "^1.0.2",
+    "xml2js": "^0.4.19"
+  }
+}
